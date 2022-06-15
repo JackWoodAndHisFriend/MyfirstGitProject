@@ -11,4 +11,5 @@ public class main {
         String x = "sdfskldjglks";
         System.out.println(x.replace("s","a"));
     }
+
 }
