@@ -8,8 +8,9 @@ package com;
 public class main {
 
     public static void main(String[] args) {
-        String x = "sdfskldjglks";
-        System.out.println(x.replace("s","a"));
+        String x = "通话";
+        String y = "重地";
+        System.out.println(String.format("%d,%d",x.hashCode(),y.hashCode()));
+        System.out.println(x.equals(y));
     }
-
 }
