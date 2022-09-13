@@ -4,6 +4,9 @@
     <option name="ignoredProducers">
       <set>
         <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
+        <option name="WIDTH" value="400" />
+        <option name="HEIGHT" value="300" />
+        <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       </set>
     </option>
   </component>
